@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    color: beige;
+    text-align: center;
+}
+a:link {
+    color: beige;
+}
+a:visited {
+    color: grey;
+}
+a:hover {
+    color: chartreuse;
+}
+
+#profile {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+    height: 20vh;
+    width: 30vh;
+    border-radius: 50%;
+}
